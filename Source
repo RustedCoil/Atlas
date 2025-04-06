@@ -1204,11 +1204,11 @@ do
             Converted["_Name"].Name = "Name"
             Converted["_Name"].Parent = Converted["_UI_Library"]
 
-            Converted["_Creator"].Value = "RoadToGlory#9879"
+            Converted["_Creator"].Value = "removespaces"
             Converted["_Creator"].Name = "Creator"
             Converted["_Creator"].Parent = Converted["_UI_Library"]
 
-            Converted["_Discord"].Value = "https://discord.gg/xu5dDS3Pb9"
+            Converted["_Discord"].Value = "https://discord.gg/PDc3CSxV4S"
             Converted["_Discord"].Name = "Discord"
             Converted["_Discord"].Parent = Converted["_UI_Library"]
 
@@ -1436,7 +1436,7 @@ do
             Converted["_Frame"].Parent = Converted["_Main1"]
 
             Converted["_B"].Font = Enum.Font.Gotham
-            Converted["_B"].Text = "Atlas UI Lib: RoadToGlory#9879" -- please don't remove this, this is open sourced and I leave this here so that users can know the name of the UI library if they are interested in it
+            Converted["_B"].Text = "> Xypherion Private Build" -- please don't remove this, this is open sourced and I leave this here so that users can know the name of the UI library if they are interested in it
             Converted["_B"].TextColor3 = Color3.fromRGB(225.00000178813934, 225.00000178813934, 225.00000178813934)
             Converted["_B"].TextSize = 12
             Converted["_B"].AnchorPoint = Vector2.new(0.5, 0.5)
@@ -6730,7 +6730,5 @@ do
 
     end
 end
-
-print("Atlas UI Library v"..VERSION.." by RoadToGlory#9879 has initiated")
 
 return Library
